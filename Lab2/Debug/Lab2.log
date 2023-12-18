@@ -1,0 +1,5 @@
+﻿  Lab2.cpp
+C:\Users\miair\Desktop\итмо\информатика\Lab2\Lab2.cpp(147,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\miair\Desktop\итмо\информатика\Lab2\Lab2.cpp(147,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\miair\Desktop\итмо\информатика\Lab2\Lab2.cpp(136,36): warning C4101: y: неиспользованная локальная переменная
+  Lab2.vcxproj -> C:\Users\miair\Desktop\итмо\информатика\Lab2\Debug\Lab2.exe

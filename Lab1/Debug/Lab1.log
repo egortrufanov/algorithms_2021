@@ -1,0 +1,9 @@
+﻿  Lab1.cpp
+C:\Users\miair\Desktop\Lab1\Lab1.cpp(87,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\Lab1\Lab1.cpp(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\Lab1\Lab1.cpp(102,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\Lab1\Lab1.cpp(110,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\Lab1\Lab1.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\Lab1\Lab1.cpp(108): message : выполняется компиляция ссылки на экземпляр шаблон функции "void selection_sort<int>(std::vector<int,std::allocator<int>> &)"
+C:\Users\miair\Desktop\Lab1\Lab1.cpp(43,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab1.vcxproj -> C:\Users\miair\Desktop\Lab1\Debug\Lab1.exe
