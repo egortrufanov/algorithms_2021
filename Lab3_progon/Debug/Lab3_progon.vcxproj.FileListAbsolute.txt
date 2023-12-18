@@ -1,0 +1,2 @@
+C:\Users\miair\Desktop\итмо\информатика\Lab3_progon\Debug\Lab3_progon.exe
+C:\Users\miair\Desktop\итмо\информатика\Lab3_progon\Debug\Lab3_progon.pdb

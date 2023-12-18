@@ -1,0 +1,14 @@
+﻿  Graph.cpp
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(80,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(115,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(116,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(144,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(155,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Graph_algorithms\Graph.cpp(169,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Graph_algorithms.cpp
+  Создание кода...
+  Graph_algorithms.vcxproj -> C:\Users\miair\Desktop\итмо\lab4\lab4\Graph_algorithms\Debug\Graph_algorithms.exe
