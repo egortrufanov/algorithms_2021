@@ -1,0 +1,6 @@
+﻿  Abstract_data_types.cpp
+C:\Users\miair\Desktop\lab6\lab6\Abstract_data_types\Abstract_data_types\Abstract_data_types.cpp(145,21): warning C4101: data: неиспользованная локальная переменная
+C:\Users\miair\Desktop\lab6\lab6\Abstract_data_types\Abstract_data_types\Abstract_data_types.cpp(145,14): warning C4101: index: неиспользованная локальная переменная
+C:\Users\miair\Desktop\lab6\lab6\Abstract_data_types\Abstract_data_types\Abstract_data_types.cpp(227,21): warning C4101: data: неиспользованная локальная переменная
+C:\Users\miair\Desktop\lab6\lab6\Abstract_data_types\Abstract_data_types\Abstract_data_types.cpp(227,14): warning C4101: index: неиспользованная локальная переменная
+  Abstract_data_types.vcxproj -> C:\Users\miair\Desktop\lab6\lab6\Abstract_data_types\Debug\Abstract_data_types.exe
